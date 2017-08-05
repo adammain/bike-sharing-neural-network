@@ -16,7 +16,7 @@ Instructions
 
 5. Enter your new environment:
 
-    1.  Mac/Linux: >> source activate dlnd
+    1.  `Mac/Linux: >> source activate dlnd`
     2. `Windows: >> activate dlnd`
 
 6. Ensure you have `numpy`, `matplotlib`, `pandas`, and `jupyter notebook` installed by doing the following:
@@ -37,6 +37,6 @@ Usage:
 
 9. To view my implimentation, in your browser, open `bike-sharing-neural-network.html`.
 
-10. To edit my implimentation's notebook, in your browswer, open `bike-sharing-neural-network.ipynb`.
+10. To edit my notebook, in your browser, open `bike-sharing-neural-network.ipynb`.
 
 If you need help running the notebook file, check out the [Jupyter notebook lesson](https://classroom.udacity.com/nanodegrees/nd101/parts/2a9dba0b-28eb-4b0e-acfa-bdcf35680d90/modules/aba54606-cf35-4a77-b643-efec6a90bfa1/lessons/13f4b7d6-92a9-468d-9008-084fc8b53a23/concepts/75e1eee0-5f81-4d5b-a1ca-eaebe3c91759).
